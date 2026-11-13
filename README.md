@@ -51,17 +51,17 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 
 
-
-
 ## INPUT
 
 
 
-
-<img width="1916" height="887" alt="image" src="https://github.com/user-attachments/assets/fc87253f-1c65-47cf-9272-004f31425a3b" />
+<img width="1013" height="720" alt="Screenshot 2026-11-12 210145" src="https://github.com/user-attachments/assets/144cef7a-1115-475f-a64f-176a39f2bbfd" />
 
 
 ## OUTPUT
+
+<img width="1916" height="887" alt="image" src="https://github.com/user-attachments/assets/fc87253f-1c65-47cf-9272-004f31425a3b" />
+
 
 ## RESULT: 
  Therefore, the 3D model of camera is created from the given instructions.
